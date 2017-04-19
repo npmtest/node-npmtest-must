@@ -1,4 +1,7 @@
-# test coverage for  [must (v0.13.4)](https://github.com/moll/js-must)  [![npm package](https://img.shields.io/npm/v/npmtest-must.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-must) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-must.svg)](https://travis-ci.org/npmtest/node-npmtest-must)
+# npmtest-must
+
+#### test coverage for  [must (v0.13.4)](https://github.com/moll/js-must)  [![npm package](https://img.shields.io/npm/v/npmtest-must.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-must) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-must.svg)](https://travis-ci.org/npmtest/node-npmtest-must)
+
 #### Testing and assertion library with friendly BDD syntax — awesome.must.be.true(). Many expressive matchers and is test runner and framework agnostic. Follows RFC 2119 with its use of MUST. Good and well tested stuff.
 
 [![NPM](https://nodei.co/npm/must.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/must)
